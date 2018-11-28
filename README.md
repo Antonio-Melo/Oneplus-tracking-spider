@@ -11,10 +11,10 @@ Creates a scrypt that checks the website every 2 minutes and if something change
 ## How to run
 
 Make sure you have the following variables:
-- EMAIL_SERVICE, check the available services.
-- EMAIL_SENDER, the email that will send
-- PASSWORD, your password
-- EMAIL_RECEIVER, the receiver of the email
+- **EMAIL_SERVICE**, check the available services.
+- **EMAIL_SENDER**, the email that will send
+- **PASSWORD**, your password
+- **EMAIL_RECEIVER**, the receiver of the email
 
 ```
 npm start ORDER_NUMBER

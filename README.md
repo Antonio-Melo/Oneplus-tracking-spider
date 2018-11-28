@@ -15,3 +15,11 @@ Make sure you have the following variables:
 - EMAIL_SENDER, the email that will send
 - PASSWORD, your password
 - EMAIL_RECEIVER, the receiver of the email
+
+```
+npm start ORDER_NUMBER
+```
+
+## Stuff
+
+This is not the most clean or efficient code. Just made it for fun. Fell free to change whatever you want.

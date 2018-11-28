@@ -6,7 +6,7 @@ After buying the new Oneplus 6T, I was tracking the package throw their [website
 
 ## What this does
 
-Creates a scrypt that checks the website every 2 minutes and if something changed, send a email showing this changes.
+Creates a scrypt that checks the website every 2 minutes and if something changed, sends a email showing this changes.
 
 ## Dependencies
 

@@ -22,4 +22,4 @@ npm start TRACKING_NUMBER
 
 ## Stuff
 
-This is not the most clean or efficient code. Just made it for fun. Fell free to change whatever you want.
+This is not the most clean or efficient code and there is probably other solutions. Just made it for fun. Fell free to change whatever you want.

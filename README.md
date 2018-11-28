@@ -8,10 +8,17 @@ After buying the new Oneplus 6T, I was tracking the package throw their [website
 
 Creates a scrypt that checks the website every 2 minutes and if something changed, send a email showing this changes.
 
+## Dependencies
+
+- [Osmosis](https://www.npmjs.com/package/osmosis)
+- [Write](https://www.npmjs.com/package/write)
+- [Read File](https://www.npmjs.com/package/read-file)
+- [Nodemailer](https://www.npmjs.com/package/nodemailer)
+
 ## How to run
 
 Make sure you have the following variables:
-- **EMAIL_SERVICE**, check the available services.
+- **EMAIL_SERVICE**, check the [available services](https://nodemailer.com/smtp/well-known/).
 - **EMAIL_SENDER**, the email that will send
 - **PASSWORD**, your password
 - **EMAIL_RECEIVER**, the receiver of the email

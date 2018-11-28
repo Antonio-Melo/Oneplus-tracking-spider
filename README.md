@@ -17,7 +17,7 @@ Make sure you have the following variables:
 - **EMAIL_RECEIVER**, the receiver of the email
 
 ```
-npm start ORDER_NUMBER
+npm start TRACKING_NUMBER
 ```
 
 ## Stuff
